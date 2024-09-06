@@ -1,4 +1,3 @@
-### OCR Application - NIMBUS
 
 **Description**:  
 This Python application captures images from a webcam, processes them to extract text using OCR, and saves the extracted text to a Word document.
