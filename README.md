@@ -35,3 +35,5 @@ This Python application captures images from a webcam, processes them to extract
 3. **Start Conversion**: Click the button to begin capturing images, converting to PDF, extracting text, and saving to Word.
 
 **License**: Open-source. Free to use and modify.
+
+**Youtube Video**: https://youtu.be/qVjHX9f56wI?si=N7yLEIsaCoEEeJsN
